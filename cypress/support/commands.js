@@ -25,8 +25,7 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 
-const data = require("../fixtures/mcfit.json");
-import { loginPage } from "../pages/login";
+import { password } from "../support/authenticationmcfit";
 
 Cypress.Commands.add("login", (username, password) => {
   cy.url().should("eq", data.loginPage.url);
