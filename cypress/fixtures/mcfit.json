@@ -1,9 +1,9 @@
 {
   "loginPage": {
-    "title": "Swag Labs",
+    "title": "mcfit",
     "username": "Username",
     "password": "Password",
-    "url":"https://www.saucedemo.com/",
+    "url":"https://my.mcfit.com/login-register",
     "login_button":"Login",
     "credential_title": "Accepted usernames are",
     "credentials": "standard_userlocked_out_userproblem_userperformance_glitch_user",
