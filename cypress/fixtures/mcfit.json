@@ -1,0 +1,17 @@
+{
+    "loginPage": {
+      "title": "mcfit",
+      "username": "Username",
+      "password": "Password",
+      "url":"https://my.mcfit.com/login-register",
+      "login_button":"Login",
+      "credential_title": "Accepted usernames are",
+      "credentials": "standard_userlocked_out_userproblem_userperformance_glitch_user",
+      "passwordErrorMessage": "Password is required",
+      "usernameErrorMessage": "Username is required"
+    },
+  
+    "productPage": {
+      "title":"Products"
+    }
+  }

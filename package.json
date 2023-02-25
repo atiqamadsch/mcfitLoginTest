@@ -1,0 +1,26 @@
+{
+  "name": "mcfitlogintest",
+  "version": "1.0.0",
+  "description": "My first Login test ",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atiqamadsch/mcfitLoginTest.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Atiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atiqamadsch/mcfitLoginTest/issues"
+  },
+  "homepage": "https://github.com/atiqamadsch/mcfitLoginTest#readme",
+  "devDependencies": {
+    "cypress": "^12.7.0"
+  }
+}
